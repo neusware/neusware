@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neusware&label=Profile%20views&color=0e75b6&style=flat" alt="neusware" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring, C#, .NET, PHP and Javascript**
+- 🌱 I’m currently learning **Java, Spring, C#, .NET, PHP, Javascript, React and others techs...**
 
 
 <h3 align="left">Connect with me:</h3>
