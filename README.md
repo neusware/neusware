@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Java, Spring, C#, .NET, PHP and Javascript**
 
-- 📫 Reach me on **neusware@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
