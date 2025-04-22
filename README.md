@@ -2,7 +2,7 @@
 <h3 align="center">A web development student trying to get it!</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring, C#, .NET, PHP, Laravel, Javascript, React and others techs...**
+- 🌱 I’m currently learning **Java, Spring, PHP, Laravel, Javascript, React, VueJS and others techs...**
 
 
 <h3 align="left">Connect with me:</h3>
