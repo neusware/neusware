@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm neusware!</h1>
-<h3 align="center">A web development student trying to get it!</h3>
+<h3 align="center">A software enginner trying to get it!</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring, PHP, Laravel, Javascript, React, VueJS and others techs...**
+- 🌱 I’m currently learning **Java, Laravel, and others techs...**
 
 
 <h3 align="left">Connect with me:</h3>
